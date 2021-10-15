@@ -1,0 +1,26 @@
+.bgimg {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('img/8.jpg');
+    min-height: 100%;
+}
+.img1{
+    display:block;
+    width:60%;
+    margin:auto;
+}
+.row{
+    margin: 10px 0;
+}
+.name{
+    font-family: 'Ephesis', cursive;
+}
+.button{
+    font-family: 'Akronim', cursive;
+    font-size: 35px;
+}
+.about{
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+}
